@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/read_item1"
+        android:title="Save"/>
+	
+	<item
+        android:id="@+id/read_item2"
+        android:title="Auto Speak"/>
+	
+	<item
+        android:id="@+id/read_item6"
+        android:title="Speech Speed"/>
+	
+	<item
+        android:id="@+id/read_item3"
+        android:title="Text Size"/>
+	
+	<item
+        android:id="@+id/read_item4"
+        android:title="Text Style"/>
+	
+	<item
+        android:id="@+id/read_item5"
+        android:title="Background Color"/>
+        
+        	
+        
+	
+	
+    
+</menu>

@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+  
+        
+    <item
+        android:id="@+id/main_item1"
+        android:title="My  Downloads"/>
+        
+    <item
+        android:id="@+id/main_item5"
+        android:title="PRO User"/>
+  
+    <item
+        android:id="@+id/main_item2"
+        android:title="Need  Help"/>
+        
+        
+   <item
+        android:id="@+id/main_item3"
+        android:title="Check For Update"/>
+        
+   <item
+        android:id="@+id/main_item6"
+        android:title="Clear Cache"/>
+        
+   <item
+        android:id="@+id/main_item7"
+        android:title="Our Other Apps"/>
+        
+
+    <item
+    android:icon="@drawable/ic_launcher"
+        android:id="@+id/main_item4"
+        android:title="About  Devloper"/>
+    
+</menu>
